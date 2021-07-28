@@ -1,0 +1,15 @@
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.exe
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.deps.json
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.runtimeconfig.json
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.runtimeconfig.dev.json
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.dll
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper_Enum.pdb
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.csprojAssemblyReference.cache
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.AssemblyInfoInputs.cache
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.AssemblyInfo.cs
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.csproj.CoreCompileInputs.cache
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.dll
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.pdb
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.genruntimeconfig.cache
+C:\projetos\POC\AutoMapper_Enum\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\projetos\POC\AutoMapper_Enum\obj\Debug\netcoreapp3.1\AutoMapper_Enum.csproj.CopyComplete

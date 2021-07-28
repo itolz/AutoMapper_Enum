@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0isjhm4LV1p5j5nkhd8ozcwZBZabud2mOaCpaq8A5yJGDjkbMJEiI+mgnd1w96dZbIKhS4hIRs71nj0Yc/wTw==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\POC\\AutoMapper_Enum\\AutoMapper_Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
